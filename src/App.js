@@ -1,6 +1,5 @@
 import { useState } from "react";
-// import StarRating from "./StarRating";
-// import { useKey } from "./useKey";
+
 import { useLocalStorageState } from "./hooks/useLocalStorageState";
 import { useMovies } from "./hooks/useMovies";
 import NavBar from "./components/NavBar";
@@ -14,11 +13,6 @@ import Search from "./components/Search";
 import NumResults from "./components/NumResults";
 import Loader from "./components/Loader";
 import ErrorMessage from "./components/ErrorMessage";
-
-// const average = (arr) =>
-//   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
-
-// const KEY = "ba523fd5";
 
 export default function App2() {
   const [query, setQuery] = useState("");
