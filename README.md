@@ -1,6 +1,6 @@
 # Movies with Popcorn
 
-Movies with Popcorn is a movie application built using React.js. It allows users to search for movies, view movie details, and maintain a list of watched movies. The application utilizes custom components and styles for a clean and engaging user interface.
+Movies with Popcorn is a movie application built using React.js. It allows users to search for movies, view movie details, can rate them and maintain a list of watched movies. The application utilizes custom components and styles for a clean and engaging user interface.
 ![Screenshot 2024-07-05 121250](https://github.com/Bharath90909/movies-with-popcorn/assets/142521273/61879702-1c22-40c6-af74-ff77ecd304d2)
 
 ## Features
